@@ -6,7 +6,7 @@ Things thay did inspired me to do this project. Def_conv can get long-range depe
 
 ![image](https://github.com/okok009/def_conv_CareAround/blob/master/imgs/Figure1.def_conv.jpg)
 
-The reason of convolution works is that always find some relations between the core and around pixels, but if we use Def_conv, we might lost this ralation around the core. So I think maybe we can use Original Convolution and Deformable Convolution collateral, some good things might happen.
+The reason of convolution works is that always find some relations between the core and around pixels, but if we use Def_conv, we might lost this ralation around the core. So I think maybe we can use Original Convolution and Deformable Convolution at the same time, some good things might happen.
 
 ![image](https://github.com/okok009/def_conv_CareAround/blob/master/imgs/Figure2.mine.jpg)
 

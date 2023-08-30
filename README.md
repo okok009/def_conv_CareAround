@@ -4,11 +4,11 @@ The Def_conv v3 was published with "InternImage: Exploring Large-Scale Vision Fo
 
 Things thay did inspired me to do this project. Def_conv can get long-range dependence, and have adaptive spatial aggregation. All of that they did was so great, but I rethinking about some quations.
 
-![image](https://github.com/okok009/def_conv_carearound/imgs/Figure2.def_conv.jpg)
+![image](https://github.com/okok009/def_conv_CareAround/imgs/Figure2.def_conv.jpg)
 
 The reason of convolution works is that always find some relations between the core and around pixels, but if we use Def_conv, we might lost this ralation around the core. So I think maybe we can use Original Convolution and Deformable Convolution collateral, some good things might happen.
 
-![image](https://github.com/okok009/def_conv_carearound/imgs/Figure2.mine.jpg)
+![image](https://github.com/okok009/def_conv_CareAround/imgs/Figure2.mine.jpg)
 
 Unluckly, things not doing well.
 
